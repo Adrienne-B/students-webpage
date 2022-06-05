@@ -25,3 +25,33 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Students-Webpage
+This is a listings of students on a webpage
+
+## Summary
+This is an angular project where you can click on each student's name and their subject they study appears. You can also type in
+the search bar and submit.
+
+### Software used:
+Visual Studio Code and Angular
+
+### What I learn:
+I learned how can can create a user experience without necessarily using javascript.
+
+#### Challenges to improve on:
+1. Angular(Still a beginner)
+
+#### Random Unexpected Challenges:
+1. Some parts of the slides (instructions) didn't allow the project to work. As a developer I had to do deep research to find the solution
+
+#### Solutions/solving the issue:
+1. Hit CTRL+A which can highlight the a large portion of code (if I want to delete).
+2. How to change a word that is used through out the page at once without manually changing which takes up more time
+
+
+#### Weakness so far:
+1.	N/A
