@@ -51,6 +51,7 @@ I learned how can can create a user experience without necessarily using javascr
 #### Solutions/solving the issue:
 1. Hit CTRL+A which can highlight the a large portion of code (if I want to delete).
 2. How to change a word that is used through out the page at once without manually changing which takes up more time
+3. Go to Edit and hit replace and you can change a word that is in multiple locations on a file and change it quickly
 
 
 #### Weakness so far:
