@@ -41,6 +41,12 @@ Visual Studio Code and Angular
 
 ### What I learn:
 I learned how can can create a user experience without necessarily using javascript.
+To push an angular project type git init, git add -A, git status etc
+THEN
+npm i angular-cli-ghpages --save-dev
+ng build --prod --base-href "https://GitHubUserName.github.io/GitHubfolderName/"
+npx angular-cli-ghpages --dir=dist/Project-name
+
 
 #### Challenges to improve on:
 1. Angular(Still a beginner)
